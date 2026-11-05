@@ -11,6 +11,7 @@ Reglas acordadas con David. Se revisan antes de preparar cada semana de publicac
 3. **No repetir.** Mismo material de origen: no antes de 8 semanas. Mismo tema: nunca dos publicaciones seguidas (ver `REGISTRO.md`).
 4. **Nada se publica sin aprobación** de David en el Centro de control.
 5. **Sin cifras inventadas.** No prometer porcentajes ni resultados que no estén respaldados.
+6. **Revisar precios antes de crear o programar.** Abrir medvinte.com, comparar con `PRECIOS.md` y actualizarlo si cambió. Si un precio cambió, revisar también todo lo que está programado. En videos e imágenes, poner precios solo si aportan; preferir "Empieza gratis" y "planes en medvinte.com", que no envejecen.
 
 ## Qué herramienta usar
 | Necesidad | Herramienta | Por qué |
