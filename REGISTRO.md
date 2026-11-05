@@ -11,16 +11,16 @@ Estados: por aprobar · aprobada · programada · publicada · descartada
 
 | Fecha y hora (Ecuador) | Tipo | Tema | Carpeta | Material de origen | Redes | Estado |
 |---|---|---|---|---|---|---|
-| 2026-10-22 19:30 | Reel | Recordatorios por WhatsApp (lanzamiento) | `publicaciones/2026-10-22_reel_recordatorios-whatsapp` | Video 02 recordatorios, vertical 9:16 | Instagram + Facebook | programada |
-| 2026-10-24 18:30 | Carrusel (5) | 3 formas de reducir las ausencias | `publicaciones/2026-10-24_carrusel_reducir-ausencias` | Diseño propio | Instagram + Facebook | programada |
-| 2026-10-26 08:00 | Imagen | Formulario 033 del MSP | `publicaciones/2026-10-26_imagen_formulario-033` | Captura del video 03 historia clínica (segundo 34) | Instagram + Facebook | programada |
-| 2026-10-29 19:30 | Reel | Medvinte en 1 minuto (resumen) | `publicaciones/2026-10-29_reel_medvinte-en-1-minuto` | Video 01 resumen, vertical 9:16 | Instagram + Facebook | programada |
-| 2026-10-31 19:30 | Carrusel (7) | Todo lo que incluye Medvinte, con precios | `publicaciones/2026-10-31_carrusel_que-incluye-medvinte` | Diseño propio | Instagram + Facebook | programada |
-| 2026-10-31 19:30 (alternativa) | Reel animado (23 s) | Todo lo que incluye Medvinte | Canvas de Moda «Medvinte - Reel Todo lo que incluye (05-11-2026)» | Carrusel del 31/10 animado con Moda | Instagram + Facebook | por aprobar (si se aprueba, reemplaza al carrusel del 31/10) |
-| 2026-11-02 08:00 | Reel | Historia clínica y odontograma | `publicaciones/2026-11-02_reel_historia-clinica` | Video 03 historia clínica, vertical 9:16 | Instagram + Facebook | programada |
-| 2026-11-05 19:30 | Reel | Facturación electrónica del SRI | `publicaciones/2026-11-05_reel_facturacion-electronica` | Video 04 facturación, vertical 9:16 | Instagram + Facebook | por aprobar |
-| 2026-11-07 19:30 | Carrusel (6) | Cómo pasar de papel a digital sin parar la clínica | `publicaciones/2026-11-07_carrusel_papel-a-digital` | Diseño propio | Instagram + Facebook | por aprobar |
-| 2026-11-09 08:00 | Imagen (pregunta) | ¿Cómo confirman las citas en tu clínica? | `publicaciones/2026-11-09_imagen_pregunta-confirmar-citas` | Diseño propio | Instagram + Facebook | por aprobar |
+| 2026-10-22 19:30 | Reel | Recordatorios por WhatsApp (lanzamiento) | `publicaciones/2026-10-22_reel_recordatorios-whatsapp` | Video 02 recordatorios, vertical 9:16 | Instagram + Facebook | publicada |
+| 2026-10-24 18:30 | Carrusel (5) | 3 formas de reducir las ausencias | `publicaciones/2026-10-24_carrusel_reducir-ausencias` | Diseño propio | Instagram + Facebook | publicada |
+| 2026-10-26 08:00 | Imagen | Formulario 033 del MSP | `publicaciones/2026-10-26_imagen_formulario-033` | Captura del video 03 historia clínica (segundo 34) | Instagram + Facebook | publicada |
+| 2026-10-29 19:30 | Reel | Medvinte en 1 minuto (resumen) | `publicaciones/2026-10-29_reel_medvinte-en-1-minuto` | Video 01 resumen, vertical 9:16 | Instagram + Facebook | publicada |
+| 2026-10-31 19:30 | Carrusel (7) | Todo lo que incluye Medvinte, con precios | `publicaciones/2026-10-31_carrusel_que-incluye-medvinte` | Diseño propio | Instagram + Facebook | publicada |
+| 2026-10-31 19:30 (alternativa) | Reel animado (23 s) | Todo lo que incluye Medvinte | Canvas de Moda «Medvinte - Reel Todo lo que incluye (05-11-2026)» | Carrusel del 31/10 animado con Moda | Instagram + Facebook | aprobada el 26/10, pero el carrusel ya salió el 31/10: sin fecha |
+| 2026-11-02 08:00 | Reel | Historia clínica y odontograma | `publicaciones/2026-11-02_reel_historia-clinica` | Video 03 historia clínica, vertical 9:16 | Instagram + Facebook | no salió: desapareció de Metricool, pendiente reprogramar |
+| 2026-11-05 19:30 | Reel | Facturación electrónica del SRI | `publicaciones/2026-11-05_reel_facturacion-electronica` | Video 04 facturación, vertical 9:16 | Instagram + Facebook | programada |
+| 2026-11-07 19:30 | Carrusel (6) | Cómo pasar de papel a digital sin parar la clínica | `publicaciones/2026-11-07_carrusel_papel-a-digital` | Diseño propio | Instagram + Facebook | programada |
+| 2026-11-09 08:00 | Imagen (pregunta) | ¿Cómo confirman las citas en tu clínica? | `publicaciones/2026-11-09_imagen_pregunta-confirmar-citas` | Diseño propio | Instagram + Facebook | programada |
 
 ## Material de origen disponible
 
