@@ -20,7 +20,7 @@ Estados: por aprobar · aprobada · cambios · programada · publicada · descar
 | 2026-11-07 19:30 | Carrusel (6) | Cómo pasar de papel a digital sin parar la clínica | `publicaciones/2026-11-07_carrusel_papel-a-digital` | Diseño propio | Instagram + Facebook | programada |
 | 2026-11-09 08:00 | Imagen (pregunta) | ¿Cómo confirman las citas en tu clínica? | `publicaciones/2026-11-09_imagen_pregunta-confirmar-citas` | Diseño propio | Instagram + Facebook | programada |
 | 2026-11-12 19:30 | Reel | Facturación electrónica del SRI (corregido) | `publicaciones/2026-11-12_reel_facturacion-electronica` | Video 04 corregido: pantalla final con precios nuevos, sin la frase "módulo adicional" | Instagram + Facebook | cambios (video se ve pequeño y cortado) |
-| 2026-11-14 19:30 | Reel | Historia clínica y odontograma (corregido) | `publicaciones/2026-11-14_reel_historia-clinica` | Video 03 corregido: pantalla final con precios nuevos | Instagram + Facebook | aprobada (sin programar: falta verificar medvinte.com) |
+| 2026-11-14 19:30 | Reel | Historia clínica y odontograma (corregido) | `publicaciones/2026-11-14_reel_historia-clinica` | Video 03 corregido: pantalla final con precios nuevos | Instagram + Facebook | programada |
 
 ## Material de origen disponible
 
