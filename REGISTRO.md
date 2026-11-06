@@ -7,7 +7,7 @@ Reglas para no repetir:
 - No publicar dos veces seguidas el mismo tema (agenda, WhatsApp, historia clínica, Formulario 033, precio, facturación).
 - Cada publicación nueva se agrega aquí en el mismo cambio en que se suben sus archivos.
 
-Estados: por aprobar · aprobada · programada · publicada · descartada
+Estados: por aprobar · aprobada · cambios · programada · publicada · descartada
 
 | Fecha y hora (Ecuador) | Tipo | Tema | Carpeta | Material de origen | Redes | Estado |
 |---|---|---|---|---|---|---|
@@ -16,11 +16,11 @@ Estados: por aprobar · aprobada · programada · publicada · descartada
 | 2026-10-26 08:00 | Imagen | Formulario 033 del MSP | `publicaciones/2026-10-26_imagen_formulario-033` | Captura del video 03 historia clínica (segundo 34) | Instagram + Facebook | publicada |
 | 2026-10-29 19:30 | Reel | Medvinte en 1 minuto (resumen) | `publicaciones/2026-10-29_reel_medvinte-en-1-minuto` | Video 01 resumen, vertical 9:16 | Instagram + Facebook | publicada |
 | 2026-10-31 19:30 | Carrusel (7) | Todo lo que incluye Medvinte, con precios | `publicaciones/2026-10-31_carrusel_que-incluye-medvinte` | Diseño propio | Instagram + Facebook | publicada |
-| 2026-10-31 19:30 (alternativa) | Reel animado (23 s, tiene precio antiguo $10: corregir antes de usar) | Todo lo que incluye Medvinte | Canvas de Moda «Medvinte - Reel Todo lo que incluye (05-11-2026)» | Carrusel del 31/10 animado con Moda | Instagram + Facebook | aprobada el 26/10, pero el carrusel ya salió el 31/10: sin fecha |
+| 2026-10-31 19:30 (alternativa) | Reel animado (23 s, tiene precio antiguo $10: corregir antes de usar) | Todo lo que incluye Medvinte | Canvas de Moda «Medvinte - Reel Todo lo que incluye (05-11-2026)» | Carrusel del 31/10 animado con Moda | Instagram + Facebook | cambios (tiene el precio antiguo $10; sin fecha) |
 | 2026-11-07 19:30 | Carrusel (6) | Cómo pasar de papel a digital sin parar la clínica | `publicaciones/2026-11-07_carrusel_papel-a-digital` | Diseño propio | Instagram + Facebook | programada |
 | 2026-11-09 08:00 | Imagen (pregunta) | ¿Cómo confirman las citas en tu clínica? | `publicaciones/2026-11-09_imagen_pregunta-confirmar-citas` | Diseño propio | Instagram + Facebook | programada |
-| 2026-11-12 19:30 | Reel | Facturación electrónica del SRI (corregido) | `publicaciones/2026-11-12_reel_facturacion-electronica` | Video 04 corregido: pantalla final con precios nuevos, sin la frase "módulo adicional" | Instagram + Facebook | por aprobar |
-| 2026-11-14 19:30 | Reel | Historia clínica y odontograma (corregido) | `publicaciones/2026-11-14_reel_historia-clinica` | Video 03 corregido: pantalla final con precios nuevos | Instagram + Facebook | por aprobar |
+| 2026-11-12 19:30 | Reel | Facturación electrónica del SRI (corregido) | `publicaciones/2026-11-12_reel_facturacion-electronica` | Video 04 corregido: pantalla final con precios nuevos, sin la frase "módulo adicional" | Instagram + Facebook | cambios (video se ve pequeño y cortado) |
+| 2026-11-14 19:30 | Reel | Historia clínica y odontograma (corregido) | `publicaciones/2026-11-14_reel_historia-clinica` | Video 03 corregido: pantalla final con precios nuevos | Instagram + Facebook | aprobada (sin programar: falta verificar medvinte.com) |
 
 ## Material de origen disponible
 
