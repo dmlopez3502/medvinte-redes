@@ -2,7 +2,7 @@
 
 **Revisar en https://www.medvinte.com antes de preparar cualquier publicación.** Si la página cambió, actualizar este archivo y revisar todo lo programado.
 
-Última revisión: 2026-11-09 (sin cambios en la web)
+Última revisión: 2026-11-10 (sin cambios en la web)
 
 | Plan | Precio | Incluye |
 |---|---|---|
